@@ -69,4 +69,4 @@ This project will be implimented in MSSQL and python.
 
 CURRENT STATUS:
 
-I have received the data from the folks at gw2spidy and need to migrate it to MSSQL where I am a bit more comfortable. Then I will begin exploration. Since human exploration is difficult to add to a code repository, I will need to create a folder where I can show the results.
+I have recieved the data from gw2Spidy, and have begun the process of loading it. Unfortunately, a failed hard drive and an unexpectedly high number of job interviews have prevented any further work.
