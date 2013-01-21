@@ -67,6 +67,4 @@ This project will be implimented in MSSQL and python.
 
 
 
-CURRENT STATUS:
-
-I have recieved the data from gw2Spidy, and have begun the process of loading it. Unfortunately, a failed hard drive and an unexpectedly high number of job interviews have prevented any further work.
+CURRENT STATUS: Shelved due to life circumstances.
